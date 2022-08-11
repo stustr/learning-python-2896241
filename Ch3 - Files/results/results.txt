@@ -1,0 +1,11 @@
+Total size = 6156
+
+ospathutils_finished.py
+shell_start.py
+files_finished.py
+shell_finished.py
+challenge_solution.py
+.ipynb_checkpoints
+files_start.py
+ospathutils_start.py
+challenge_ss.py
